@@ -71,25 +71,20 @@ This project investigates the potential relationship between socio-economic fact
 
 ## Table of Contents
 
-| Section | Folder | Description |
-|------:|--------|-------------|
-| 1 | `assign/` | Assignment material for the Business Data & Management course |
-| 1.1 | `assign/Assignment-BDMGMT-Apr24.pdf` | Assignment description in English |
-| 1.2 | `assign/Εργασία-ΔΧΜΚ-Απρ24.pdf` | Assignment description in Greek |
-| 2 | `docs/` | Documentation and reports on US police killings |
-| 2.1 | `docs/Police-Killings-US.pdf` | English report |
-| 2.2 | `docs/Δολοφονίες-Αστυνομικών-ΗΠΑ.pdf` | Greek report |
-| 3 | `graphs/` | Visualizations and charts of datasets |
-| 3.1 | `graphs/2015-*.png` | Various 2015 charts: elbow method, optimal clusters, percentages, logs |
-| 3.2 | `graphs/2016-*.png` | Various 2016 charts: elbow method, optimal clusters, percentages, logs |
-| 3.3 | `graphs/avg-*.png` | Average charts across years |
-| 3.4 | `graphs/Clustering3-*.png` | Charts for 3-dataset clustering experiments |
-| 4 | `src/` | Source code, datasets, and notebooks |
-| 4.1 | `src/datasets/` | Raw datasets in CSV and JSON formats |
-| 4.2 | `src/jupyter/` | Jupyter notebooks for analysis and preprocessing |
-| 4.3 | `src/processed_datasets/` | Cleaned and processed datasets |
-| 4.4 | `src/python/` | Python scripts for clustering and preprocessing |
-| 5 | `README.md` | Repository overview, instructions, and summary |
+| Section | Path / File | Description |
+|--------:|-------------|-------------|
+| 1 | `assign/` | Official laboratory exercise specifications |
+| 1.1 | `assign/Exercise 3 (SQL Injection)_2023.pdf` | Assignment description (English) |
+| 1.2 | `assign/Άσκηση 3 (SQL Injection)_2023.pdf` | Assignment description (Greek) |
+| 2 | `docs/` | Technical reports and theoretical background |
+| 2.1 | `docs/SQL-Injection.pdf` | Laboratory report and analysis (English) |
+| 2.2 | `docs/Έγχυση-SQL.pdf` | Laboratory report and analysis (Greek) |
+| 3 | `screens/` | Experimental results and attack demonstrations |
+| 3.1 | `screens/Drast1/` | Database enumeration and data extraction |
+| 3.2 | `screens/Drast2/` | Authentication bypass and web-based SQL injection |
+| 3.3 | `screens/Drast4/` | Unsafe backend statements and privilege escalation |
+| 3.4 | `screens/*.png` | Additional execution results and database state changes |
+| 4 | `README.md` | Repository overview and usage instructions |
 
 ## Project Overview
 
