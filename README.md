@@ -277,6 +277,7 @@ sudo systemctl enable mysql
 
 #### MySQL Client (CLI)
 Installed automatically with MySQL Server.
+
 Verify:
 ```bash
 mysql -u root -p
@@ -284,6 +285,7 @@ mysql -u root -p
 
 #### (Optional) Web Stack (for Web-based SQL Injection)
 If you want to reproduce web-form SQL injection scenarios:
+
 Install LAMP stack:
 ```
 bash
